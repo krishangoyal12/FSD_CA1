@@ -1,0 +1,14 @@
+.container{
+    border: 2px solid grey;
+    margin: 10px;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+}
+
+.container h2{
+    color: rgb(214, 14, 14);
+}
+
+.container h4{
+    color: rgb(15, 97, 178);
+    margin: 10px;
+}
